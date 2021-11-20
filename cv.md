@@ -65,8 +65,9 @@ hashing, stacks, queues, and trees
 - Recipient of 2018 Harvey H. Jordan Award, given to the top graduating senior in the College of Engineering each year
 
 # Publications
+<p id="pub"> <b> Fey, L. T. W. </b>, Xu, S., Su, Y., Hunter, A., Beyerlein, I.J., Transitions in the morphology and critical stresses of gliding dislocations in multi-principal element alloys, Physical Review Materials. (under review) </p>
 
-<p id="pub"> <b> Fey, L. T. W. </b>, Hunter, A., & Beyerlein, I. J. (2021). Phase-field dislocation modeling of cross slip. Journal of Materials Science, accepted.</p>
+<p id="pub"> <b> Fey, L. T. W. </b>, Hunter, A., & Beyerlein, I. J. (2021). Phase-field dislocation modeling of cross slip. Journal of Materials Science. (accepted) </p>
 
 <p id="pub"> <b> Fey, L. T. W. </b>, Tan, A. M. Z., Swinburne, T. D., Perez, D., & Trinkle, D. R. (2021). Accelerated molecular dynamics simulations of dislocation climb in nickel. Physical Review Materials, 5(8), 083603. <a href="https://doi.org/10.1103/PhysRevMaterials.5.083603"> doi.org/10.1103/PhysRevMaterials.5.083603 </a> </p>
 
