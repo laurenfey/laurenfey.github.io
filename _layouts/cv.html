@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<article class="page">
+  <h1 class="page-title" style="text-align:center">{{ page.title }}</h1>
+  {{ content }}
+</article>
+
+<style>
+    h2, p, ul {
+       margin-top: 0;
+       line-height: 1.3;
+    }
+    h2, p {
+       margin-bottom: 0;
+    }
+    h2 {
+      margin-left: 5%;
+      float: left;
+    }
+    p, ul {
+      margin-left: 10%;
+    }
+    #pub {
+        text-indent: -5%;
+        padding-left: 5%;
+    }
+    :not(#date){
+        clear: both;
+    }
+    #date{
+        float: right;
+    }
+</style>

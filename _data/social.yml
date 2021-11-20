@@ -1,0 +1,12 @@
+- title: Email
+  url: mailto:laurentwfey@gmail.com
+  icon: fas fa-envelope
+- title: LinkedIn
+  url: https://linkedin.com/in/laurenfey
+  icon: fab fa-linkedin
+- title: GitHub
+  url: https://github.com/laurenfey
+  icon: fab fa-github
+- title: Google Scholar
+  url: https://scholar.google.com/citations?user=9J59fP0AAAAJ&hl=en
+  icon: fas fa-book
