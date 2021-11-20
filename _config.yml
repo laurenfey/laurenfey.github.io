@@ -23,14 +23,14 @@ email: laurentwfey@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Check out my super awesome website!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://laurenfey.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  laurenfey
 
 # Build settings
 #theme: minima
-remote_theme: zivong/jekyll-theme-hydure
+# remote_theme: zivong/jekyll-theme-hydure
 plugins:
-  - jekyll-remote-theme
+  #- jekyll-remote-theme
   - jekyll-feed
 
 cover: beach.jpg
