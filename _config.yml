@@ -28,9 +28,7 @@ github_username:  laurenfey
 
 # Build settings
 #theme: minima
-# remote_theme: zivong/jekyll-theme-hydure
 plugins:
-  #- jekyll-remote-theme
   - jekyll-feed
 
 cover: beach.jpg
