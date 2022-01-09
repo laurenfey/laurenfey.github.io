@@ -28,10 +28,8 @@ hashing, stacks, queues, and trees
 ## University of Illinois at Urbana-Champaign
 <p id="date"> 2016-2018 </p>
 **Undergraduate Research Assistant**
-- Help students understand course concepts, including C++, memory management, inheritance, linked lists, graphs,
-hashing, stacks, queues, and trees
-- Hold office hours and teach in small lab sections
-- Develop and test new programming assignments and exam questions
+- Run massively parallel atomic-scale simulations on Blue Waters supercomputer
+- Analyze simulation data using Python
 
 ## Wiss, Janney, Elstner Associates
 <p id="date"> 2016 </p>
@@ -65,9 +63,9 @@ hashing, stacks, queues, and trees
 - Recipient of 2018 Harvey H. Jordan Award, given to the top graduating senior in the College of Engineering each year
 
 # Publications
-<p id="pub"> <b> Fey, L. T. W. </b>, Xu, S., Su, Y., Hunter, A., Beyerlein, I.J., Transitions in the morphology and critical stresses of gliding dislocations in multi-principal element alloys, Physical Review Materials. (under review) </p>
+<p id="pub"> <b> Fey, L. T. W. </b>, Xu, S., Su, Y., Hunter, A., & Beyerlein, I.J. (2022). Transitions in the morphology and critical stresses of gliding dislocations in multi-principal element alloys, Physical Review Materials, 6(1), 013605. <a href="https://doi.org/10.1103/PhysRevMaterials.6.013605"> doi.org/10.1103/PhysRevMaterials.6.013605 </a> </p>
 
-<p id="pub"> <b> Fey, L. T. W. </b>, Hunter, A., & Beyerlein, I. J. (2021). Phase-field dislocation modeling of cross slip. Journal of Materials Science. (accepted) </p>
+<p id="pub"> <b> Fey, L. T. W. </b>, Hunter, A., & Beyerlein, I. J. (2022). Phase-field dislocation modeling of cross slip. Journal of Materials Science. <a href="https://doi.org/10.1007/s10853-021-06716-1"> doi.org/10.1007/s10853-021-06716-1 </a> </p>
 
 <p id="pub"> <b> Fey, L. T. W. </b>, Tan, A. M. Z., Swinburne, T. D., Perez, D., & Trinkle, D. R. (2021). Accelerated molecular dynamics simulations of dislocation climb in nickel. Physical Review Materials, 5(8), 083603. <a href="https://doi.org/10.1103/PhysRevMaterials.5.083603"> doi.org/10.1103/PhysRevMaterials.5.083603 </a> </p>
 
@@ -75,7 +73,7 @@ hashing, stacks, queues, and trees
 Frank-Read source activation in a refractory multi-principal element alloy. International Journal of Plasticity,
 102850. <a href="https://doi.org/10.1016/j.ijplas.2020.102850"> doi.org/10.1016/j.ijplas.2020.102850 </a> </p>
 
-<p id="pub"> Xu, S., Su, Y., <b> Smith, L. T.W. </b>, & Beyerlein, I. J. (2020). Frank-Read source operation in six body-centered cubic
+<p id="pub"> Xu, S., Su, Y., <b> Smith, L. T. W. </b>, & Beyerlein, I. J. (2020). Frank-Read source operation in six body-centered cubic
 refractory metals. Journal of the Mechanics and Physics of Solids, 141, 104017. <a href="https://doi.org/10.1016/j.jmps.2020.104017"> doi.org/10.1016/j.jmps.2020.104017 </a> </p>
 
 <p id="pub"> Xu, S., <b> Smith, L. </b>, Mianroodi, J. R., Hunter, A., Svendsen, B., & Beyerlein, I. J. (2019). A comparison of different
@@ -87,19 +85,15 @@ Science and Engineering, 27(7). <a href="https://doi.org/10.1088/1361-651X/ab2d1
 ## Tech Savvy Conference
 <p id="date"> 2019 </p>
 **Workshop Creator and Facilitator**
-- text
 
 ## I Heart STEM Conference
 <p id="date"> 2018 </p>
 **Workshop Creator and Facilitator**
-- text
 
 ## SciTrek Outreach programming
 <p id="date"> 2018 </p>
 **Volunteer**
-- text
 
 ## Enginering Open House
 <p id="date"> 2015 </p>
 **Project Lead**
-- text
